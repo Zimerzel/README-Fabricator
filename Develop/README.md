@@ -1,9 +1,9 @@
 
-  <h1 align="center"></h1>
+  <h1 align="center">myProject</h1>
 
   
   # Description
-  w
+  my project
 
   # Table of Contents
   * [Installation](#installation)
@@ -14,22 +14,22 @@
   * [Questions](questions)
  
   # Installation
-  These dependencies must be installed for the application to work properly, .
+  These dependencies must be installed for the application to work properly, install inquirer.
   
   # Usage
-  To use this app, wa.
+  To use this app, use at your own risk.
   
   # License
 
   <br />
-  This application is licensed under the Apache license.
+  This application is licensed under the MIT license.
   
   # Contributiors: 
-  aw
+  Zach Imerzel
   
   # Testing
-  The following is needed to run the test: aw
+  The following is needed to run the test: test it
   
   # Questions
-  If you have any questions concerning this repo, please email a or through my Github profile: https://github.com/a/.
+  If you have any questions concerning this repo, please email zach@gmail.com or through my Github profile: https://github.com/Zimerzel/myProject.
 

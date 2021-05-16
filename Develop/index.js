@@ -13,27 +13,27 @@ const questions = [
     {
         type:'input',
         name:'description',
-        message:'Please provide a brief description.'
+        message:'Please provide a brief description:'
     },
     {
         type:'input',
         name:'installation',
-        message:'Please provide your installation instructions.'
+        message:'Please provide your installation instructions:'
     },
     {
         type:'input',
         name:'usage',
-        message:'Please provide your usage information.'
+        message:'Please provide your usage information:'
     },
     {
         type:'input',
         name:'contribution',
-        message:'Please provide all listed contributors'
+        message:'Please provide all listed contributors:'
     },
     {
         type:'input',
         name:'test',
-        message:'Please provide requirements for testing this application.'
+        message:'Please provide requirements for testing this application:'
     },
     {
 
@@ -51,12 +51,12 @@ const questions = [
     {
     type:'input',
     name:'username',
-    message:'Please provide your Github username.'
+    message:'Please provide your Github username:'
     },
     {
     type:'input',
     name:'email',
-    message:'Please provide your email.'
+    message:'Please provide your email:'
      },
 ];
 
