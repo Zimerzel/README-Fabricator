@@ -41,10 +41,10 @@ const questions = [
         name:'license',
         message:'Whats license do you wish to use?',
         choices: [
-            "Apache",
-            "Academic",
+            "Apache-2.0",
+            "ISC",
             "MIT",
-            "Mozilla",
+            "IPL-1.0",
         ]
 
     },
