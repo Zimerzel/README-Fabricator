@@ -29,7 +29,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is very long, add a table of contents to make it easy for users to find what they need.
 
